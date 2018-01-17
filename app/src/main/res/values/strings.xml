@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Discovery</string>
+    <string name="title_habitacion_list">Casa</string>
+    <string name="title_habitacion_detail">Habitacion Detail</string>
+</resources>
